@@ -1,0 +1,7 @@
+torch>=2.4
+deepinv==0.4.2
+numpy
+matplotlib
+pillow
+huggingface_hub
+jupyter
